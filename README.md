@@ -1,1 +1,1 @@
-# gh-actions-assessment
+Repo containing examples and notes on gh-actions
