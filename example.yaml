@@ -1,0 +1,10 @@
+colors:
+  - name: red
+    hex: #00ff00
+    labels: 
+      - experimental
+      - acessbility 
+  - name : blue
+    hex: #fe03aa
+  - name: yellow
+    hex: #ee33ff
